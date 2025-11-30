@@ -42,9 +42,6 @@ The goal was to create a "billion-dollar" user experience that prioritizes reada
 ### External Services
 *   **NewsAPI**: Real-time global news data source.
 
-## 📸 Screenshots
-
-*(Add your screenshots here. Pro Tip: Use a tool like Screely or shots.so for professional mockups)*
 
 ## 🔧 Installation & Setup
 
@@ -111,3 +108,4 @@ This project is open source and available under the MIT License.
 
 ---
 *Built with ❤️ and Python.*
+
